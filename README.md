@@ -78,7 +78,6 @@ Mi objetivo es seguir creciendo como desarrollador, aprender nuevas tecnologías
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/TU_USUARIO
-- Email: TU_CORREO
+- Email: yoycer23@gmail.com
 
 Gracias por visitar mi perfil.
